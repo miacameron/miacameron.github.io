@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Links"
+title:  "Links to pdfs"
 date:   2024-01-22 20:22:57 -0800
 ---
 
 Presentation given at the 2022 INC Winter School on Brains and Computation
-Student Talks on <object data="{{site-url}}/_pdfs/2022-12-16_Predictive_Recirculation.pdf" 
-width="1000" height="1000" type="application/pdf"></object>
+Student Talks on [PredRec]("{{site-url}}/pdfs/2022-12-16_Predictive_Recirculation.pdf")
