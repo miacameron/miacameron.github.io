@@ -21,17 +21,27 @@
 title: Mia Cameron
 email: mia.a.cameron02@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I'm Mia and this is my personal website. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miacameron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: miacameron.github.io
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  miacameron
+
+favicon: "icon.png"
 
 # Build settings
-theme: minima
+theme : minima
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
 plugins:
   - jekyll-feed
 
