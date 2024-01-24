@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Mia
+title: Mia Cameron
 description: homepage
 ---
 
@@ -13,8 +13,8 @@ Hi! I'm Mia and I'm a student at UC San Diego studying Computer Science and Math
 I am interested understanding the algorithms of the brain, and the relationship between 
 neuroscience and AI. 
 
-Currently, I am interested in biologically-plausible learning algorithms for neural networks, as alternatives to backpropagation that could potentially be implemented in real brains.
+Currently, I am interested in biologically-plausible learning algorithms for neural networks.
 
-* [Projects](projects.md)
+* [projects](projects.md)
 * [CV]({{site-url}}/pdfs/2024-01-CV.pdf)
-* [Contact](contact.md)
+* [contact information](contact.md)
