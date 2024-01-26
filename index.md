@@ -9,7 +9,7 @@ description: homepage
 
 <img src="{{site-url}}/imgs/me.png" class=profilepic/>
 
-Hi! I'm Mia and I'm a student at UC San Diego studying Computer Science and Math, and a undergraduate researcher at the Sejnowski Lab at the Salk Institute. 
+Hi! I'm Mia and I'm a student at [UC San Diego](https://cse.ucsd.edu/) studying Computer Science and Math, and a undergraduate researcher at the [Sejnowski Lab](https://cnl.salk.edu/) at the Salk Institute. 
 I am interested understanding the algorithms of the brain, and the relationship between 
 neuroscience and AI. 
 
