@@ -1,8 +1,8 @@
 ---
 layout: page
-title: contact information
+title: Contact
 ---
 
-* email: mia.a.cameron02@gmail.com
-* github: [miacameron](https://github.com/miacameron)
-* twitter: [@miaannecameron](https://twitter.com/miaannecameron)
+* Email Address: mia.a.cameron02@gmail.com
+* GitHub: [miacameron](https://github.com/miacameron)
+* Google Scholar: [Mia Cameron](https://scholar.google.com/citations?user=56EHPeMAAAAJ)
