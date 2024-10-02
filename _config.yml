@@ -57,7 +57,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "sans-serif"
+font: "Sans Serif"
 
 # The following files will be removed from the generated website.
 exclude:
