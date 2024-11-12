@@ -4,5 +4,6 @@ main:
     authors: Yusi Chen, Huanqiu Zhang, <strong>Mia Cameron</strong>, Terrence Sejnowski
     conference_short: Neuron
     conference: Neuron, Volume 112, Issue 15
+    code: https://github.com/miacameron/Local_RNN
     pdf: https://www.cell.com/neuron/pdf/S0896-6273(24)00371-4.pdf
-    image: https://www.biorxiv.org/content/biorxiv/early/2023/04/04/2022.05.19.492731/F1.large.jpg
+    image: ./assets/img/predictive_learning.png
