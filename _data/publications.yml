@@ -5,5 +5,5 @@ main:
     conference_short: Neuron
     conference: Neuron, Volume 112, Issue 15
     code: https://github.com/miacameron/Local_RNN
-    pdf: https://www.cell.com/neuron/pdf/S0896-6273(24)00371-4.pdf
+    pdf: https://papers.cnl.salk.edu/PDFs/Predictive%20sequence%20learning%20in%20the%20hippocampal%20formation%202024-4663.pdf
     image: ./assets/img/predictive_learning.png

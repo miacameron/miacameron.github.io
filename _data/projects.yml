@@ -2,5 +2,8 @@ main:
 
   - title: "Biologically-plausible Deep Learning with Reciprocal Feedback"
     authors: <strong>Mia Cameron</strong>, Yusi Chen, Terrence Sejnowski
+    conference_short: Cosyne 2025
+    conference: Computational and Systems Neuroscience, March 17-25 2025, Montreal QC
     image: ./assets/img/reciprocal.png
-    abstract: ./assets/files/Cosyne_2025_Poster.pdf
+    poster: ./assets/files/Cosyne_2025_Poster.pdf
+    abstract: ./assets/files/reciprocal_feedback_abstract.pdf
